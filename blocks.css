@@ -20,14 +20,14 @@ img.floating {
 
 
 
-#top, #sidebar, #bottom, .menuitem {
+#top, #bottom, .menuitem {
     border-radius: 4px;
     margin: 4px;
 }
 
 #top {
-    background-color: #008ECC; /* #228B22; Forest Green; alt: #04AA6D; */
-    color: #ffffff;
+    background-color: #ffffff; /* #228B22; Forest Green; alt: #04AA6D; */
+    color: #008ECC;
     padding: 15px;
     border-radius: 25px;
 }

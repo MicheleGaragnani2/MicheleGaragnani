@@ -41,6 +41,7 @@ img.floating {
 #main {
     padding: 10px;
     margin: 0 210px;
+	  overflow: hidden; /* Hide scrollbars */
 }
 
 

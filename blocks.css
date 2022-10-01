@@ -18,10 +18,7 @@ img.floating {
     xmin-width: 900px;
 }
 
-.wrapper {
-    position: relative;
-    overflow: auto;
-}
+
 
 #top, #sidebar, #bottom, .menuitem {
     border-radius: 4px;
@@ -45,17 +42,7 @@ img.floating {
     margin: 0 210px;
 }
 
-#sidebar {
-    background-color: #DAA520; /* GoldenRod; Alt: #87cefa; LightSkyBlue ; alt: #32a4e7; */
-    color: #ffffff;
-    padding: 10px;
-    width: 180px;
-    bottom: 0;
-    top: 0;
-    right: 0;
-    position: absolute;
-    border-radius: 25px;
-}
+
 
 #bottom {
     border: 1px solid #d4d4d4;

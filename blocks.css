@@ -2,7 +2,6 @@ body {
     font: 100% Verdana, Lucida Sans, sans-serif;
     margin: 20px;
     line-height: 26px;
-  overflow: hidden; /* Hide scrollbars */
 }
 
 td.quote {
@@ -41,6 +40,7 @@ img.floating {
 #main {
     padding: 10px;
     margin: 0 210px;
+	  overflow: hidden; /* Hide scrollbars */
 }
 
 
